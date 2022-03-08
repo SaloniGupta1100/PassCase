@@ -1,0 +1,62 @@
+/* font-family: 'Archivo Black', sans-serif;
+font-family: 'Montserrat', sans-serif; */
+
+*{
+    color: aliceblue;
+}
+body{
+    background-image: url('Assets/computerBg.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2{
+    font-family: 'Archivo Black', sans-serif;
+    margin: 5vh auto;
+    text-align: center;
+}
+form{
+    align-items: center;
+    text-align: center;
+}
+form div{
+    line-height: 250%;
+    margin: 1em auto;
+    align-self: center;
+}
+form div input{
+    background-color: transparent;
+    border: white 1px solid;
+    margin-left: 2vw;
+    font-family: 'Montserrat', sans-serif; 
+}
+table {
+    margin: 1em auto;
+    border: 3px double rgba(0, 255, 242, 0.664);
+    border-right-style: dashed;
+    border-left-width: 17px;
+    border-bottom-color: pink;
+    width: 70vw;
+ }
+ td {
+    font-size: 24px;
+    border-right-style: dotted;
+    border-width: 3px;
+    border-right-color: palevioletred;
+    text-align: center;
+ }
+ th {
+    font-size: 24px;
+    border-right-style: dotted;
+    border-width: 3px;
+    border-right-color: palevioletred;
+    border-bottom: pink 3px solid;
+    padding: 1% 2%;
+ }
+ button{
+    color: black;
+    font-family: 'Montserrat', sans-serif; 
+    padding: 3px;
+}
