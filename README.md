@@ -16,6 +16,9 @@ Just type in your password in the input field and it will tell you how strong is
 The generator lets you customise settings like length, Inclusion of UpperCase Letters, LowerCase Letters, Numbers and Symbols and generates a strong custom password according to your needs. The password can then be copied to your clipboard using a Copy button.
 <br><br> To avoid remembering all your passwords you can use the password manager which stores all the important information for you. 
 <br> 
+<h3><em>Personal Phrase in password Generator</em></h3>(<strong>Contributer:</strong> <a href="https://github.com/sakshi-e-glitch" target="_blank" rel="noopener noreferrer"> Sakshi Pandey</a>)<br><br>
+To get a personalized touch instead of just randomly generated string, you can add a phrase of your choice in "Personal Phrase" section. This will generate your own secure password including a random yet strong sequence of characters along with the phrase which you chose. 
+<br> 
 
 # How to Secure Passwords?
 The best practices for creating secure passwords are:
