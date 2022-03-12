@@ -8,6 +8,8 @@ const symbolsElement = document.getElementById('symbols');
 const generateElement = document.getElementById('generate');
 const clipboardElement = document.getElementById('clipboard');
 
+
+
 const randomFunction={
     lower:getRandomLowerCase,
     upper:getRandomUpperCase,
@@ -23,8 +25,12 @@ generateElement.addEventListener('click',()=>{
     const hasUpper = upperCaseElement.checked;
     const hasNumber = numbersElement.checked;
     const hasSymbol = symbolsElement.checked;
+    var addedText = document.getElementById('choice').value;
+    const addedLength = addedText.length;
+    //console.log(addedText)
+    //console.log(addedLength)
 
-    resultElement.innerText = generatePassword(hasLower,hasUpper,hasNumber,hasSymbol,length);
+    resultElement.innerText = generatePassword(hasLower,hasUpper,hasNumber,hasSymbol,length-addedLength)+addedText;
 });
 
 // Copy password to clipboard
@@ -46,7 +52,7 @@ clipboardElement.addEventListener('click',()=>{
 
 // Generate Password Function
 function generatePassword(lower,upper,number,symbol,length){
-    /** 
+    /**  
      * Initialise password variable
      * filter out unchecked types
      * loop over length call generator function for each type
