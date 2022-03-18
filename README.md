@@ -22,19 +22,34 @@ To get a personalized touch instead of just randomly generated string, you can a
 
 # How to Secure Passwords?
 The best practices for creating secure passwords are:
-<br>
-<br>A password should be 16 characters or more; our password-related research has found that 45 percent of Americans use passwords of eight characters or less, which are not as secure as longer passwords.
-<br>A password should include a combination of letters, numbers, and characters.
-<br>A password shouldn’t be shared with any other account
-<br>A password shouldn’t include any of the user’s personal information like their address or phone number. It’s also best not to include any information that can be accessed on social media like kids’ or pets’ names.
-<br>A password shouldn’t contain any consecutive letters or numbers.
-<br>A password shouldn’t be the word “password” or the same letter or number repeated.
+<ul>
+<li>A password should be 16 characters or more; our password-related research has found that 45 percent of Americans use passwords of eight characters or less, which are not as secure as longer passwords.
+</li>
+<li>A password should include a combination of letters, numbers, and characters.
+ </li>
+<li>A password shouldn’t be shared with any other account.
+ </li>
+<li>A password shouldn’t include any of the user’s personal information like their address or phone number. It’s also best not to include any information that can be accessed on social media like kids’ or pets’ names.
+ </li>
+<li>A password shouldn’t contain any consecutive letters or numbers.
+ </li>
+<li>A password shouldn’t be the word “password” or the same letter or number repeated.
+ </li>
+</ul>
 
 # Some Other Ways To Protect Youself Online
 Aside from creating secure and unique passwords for all web accounts, there are other best practices to increase one’s digital security.
-<br><br>Use a VPN: While passwords keep unauthorized users out of accounts, Internet Service Providers can still track a user’s online activity as well as their devices’ private IP addresses. The only way to hide web activity and IP addresses is to connect not directly to a public Wi-Fi network, but instead to a VPN, which stands for Virtual Private Network. Learn more about finding the best VPN, all tested by our digital security experts.
-<br><br>Get identity theft protection: While a strong password can go a long way in protecting online accounts, there’s no single action that can protect a user’s personally identifiable information from identity theft. Rather, top identity theft protection software monitors key criminal and financial areas for users’ personal information.
-<br><br>Install a home security system: Users can protect their homes and families with top-rated home security systems.
-<br><br>Use antivirus software: Antivirus software scans computers, phones and tablets for malware, viruses, ransomware, spyware and other cyber threats.
-<br><br>Use a password manager: Password managers store users’ usernames and passwords in encrypted vaults, requiring only master passwords or biometrics to log into accounts.
-<br><br>Only change passwords when needed: It’s a myth that users should change their passwords in regular intervals. Rather, it’s only necessary to change passwords if the account itself is compromised, according to recent reports.
+  <ol>
+<li><strong>Use a VPN:</strong> While passwords keep unauthorized users out of accounts, Internet Service Providers can still track a user’s online activity as well as their devices’ private IP addresses. The only way to hide web activity and IP addresses is to connect not directly to a public Wi-Fi network, but instead to a VPN, which stands for Virtual Private Network. Learn more about finding the best VPN, all tested by our digital security experts.
+  </li>
+<li><strong>Get identity theft protection: </strong>While a strong password can go a long way in protecting online accounts, there’s no single action that can protect a user’s personally identifiable information from identity theft. Rather, top identity theft protection software monitors key criminal and financial areas for users’ personal information.
+  </li>
+  <li><strong>Install a home security system:</strong> Users can protect their homes and families with top-rated home security systems.
+  </li>
+<li><strong>Use antivirus software:</strong> Antivirus software scans computers, phones and tablets for malware, viruses, ransomware, spyware and other cyber threats.
+  </li>
+  <li><strong>Use a password manager:</strong> Password managers store users’ usernames and passwords in encrypted vaults, requiring only master passwords or biometrics to log into accounts.
+  </li>
+  <li><strong>Only change passwords when needed:</strong> It’s a myth that users should change their passwords in regular intervals. Rather, it’s only necessary to change passwords if the account itself is compromised, according to recent reports.
+  </li>
+  </ol>
