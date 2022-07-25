@@ -1,6 +1,8 @@
 # <a href="https://kaavya-saxena.github.io/PassCase/"> PassCase </a>
 
-# A new study conducted by Verizon Data Breach Investigations has found that 81% of all data breaches are caused by so-called ‘weak’ passwords being compromised.
+<a href="https://kaavya-saxena.github.io/PassCase/"> Live Demo </a>
+
+A new study conducted by Verizon Data Breach Investigations has found that 81% of all data breaches are caused by so-called ‘weak’ passwords being compromised.
 
 # What is a 'Weak Password'?
 Weak passwords are typically short, common, or default terms such as “password”, an individual’s name, a predictable location, a popular phrase and so on. They are also characterised by how easily guessable they are, so more complex passwords that have sequences (E.g. 1234) or that used frequently can also be defined as weak. Consequently, these passwords can be compromised in a brute-force attack in which all possible terms are rapidly guessed by a hacker or software.
