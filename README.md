@@ -1,4 +1,4 @@
-# <a href="https://kaavya-saxena.github.io/PassCase/"> PassCase </a>
+# PassCase 
 
 <a href="https://kaavya-saxena.github.io/PassCase/"> Live Demo </a>
 
